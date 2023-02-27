@@ -7,7 +7,7 @@ python3 lwbomb.py
 ```
 **Pc**
 ```
-öncelikle python indirin
+öncelikle python indirin https://www.python.org/downloads/
 sonra aşşağıdaki komutu sms bomberin kurulu olduğu dizinde cmdye yazın
 pip install -r requirements.txt
 ```
