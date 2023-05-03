@@ -24,11 +24,9 @@ while 1:
     system("cls||clear")
     print("""{}
   
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-▀ ▀
-▀ L W - B O M B ▀
-▀ ▀
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀          
+
+L W - B O M B ▀
+      
 
     Sms: {}                                      
     """.format(Fore.LIGHTRED_EX, len(servisler_sms), Style.RESET_ALL, Fore.CYAN))
